@@ -1,5 +1,7 @@
-# LIG-4
+# FIND FOUR
+
 Projeto para a disciplina de Linguagem de Programação Orientade à Objetos.
+Remake do minigame "Find Four" do jogo Club Penguin, utilizando Java e JavaFx
 
 > O jogo consiste em um tabuleiro 6 x 7 e é jogado por 2 jogadores. Cada jogador possui
 discos de uma cor, e tem como objetivo formar 4 discos seguidos na horizontal, vertical
